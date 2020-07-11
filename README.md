@@ -1,2 +1,6 @@
-# Predicting-Loan-Rejection
-Predicting personal loan underwriting rejections for a NBFC
+# Predicting personal loan underwriting rejections for a NBFC
+<p>Domain: Finance & Risk Analytics</p>
+<p>Skills: Logistic Regression, R, Random Forest, TABLEAU, Machine Learning</p>
+<p>Description: <li>This is a live project. In NBFC, offers are usually pre-derived and pre-approved. Customers respond to offers communicated and their leads get created in system. Final decision is made by underwriter based on documents received and verified. Due to lack of predictive model which would enable business users to communicate to only those customers whose chances of rejections in underwriting process are very low, communications are made to each individual. Predictive model which can tag customers personal loan offer with certain probabilities will help marketers to communicate wisely. This model will help to save approximately Rs 350 crore per month by predicting to be rejected cases.</li>
+<li>We were able to predict the rejected cases with 87% accuracy using Gradient boost. This model will be deployed in the loan origination process where the all marketing channels will use the model output. This in turn will bring down the rejections in loan underwriting process saving approximately Rs 350 crore
+</li></p>
